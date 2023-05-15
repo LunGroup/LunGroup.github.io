@@ -10,8 +10,6 @@ collection: publications
 
 1. Zhengyan Lun†, Bin Ouyang†, Deok-Hwang Kwon, Yang Ha, Emily E. Foley, Tzu-Yang Huang, Zijian Cai, Hyunchul Kim, Mahalingam Balasubramanian, Yingzhi Sun, Jianping Huang, Yaosen Tian, Haegyeom Kim, Bryan D. McCloskey, Wanli Yang, Raphaële Clément, Huiwen Ji* , Gerbrand Ceder*, “Cation-disordered rocksalt-type high-entropy cathodes for Li-ion batteries.” Nature materials 20.2 (2021): 214-221. https://doi.org/10.1038/s41563-020-00816-0
 
-Related reading: “A Story of Disordered Arrangements.” Singh, Aditya Narayan. Matter 4.1 (2021): 23-25.
-
 1.  Linze Li†, Zhengyan Lun†, Dongchang Chen, Yuan Yue, Wei Tong, Guoying Chen, Gerbrand Ceder* , and Chongmin Wang*. “Fluorination‐Enhanced Surface Stability of Cation‐Disordered Rocksalt Cathodes for Li‐Ion Batteries.” Advanced Functional Materials (2021): 2101888. https://doi.org/10.1002/adfm.202101888
 
 1. Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. “Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization.” Chemical reviews 121.3 (2020): 1623-1669. https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.
@@ -33,10 +31,6 @@ Related reading: “A Story of Disordered Arrangements.” Singh, Aditya Narayan
 1. Jinhyuk Lee* , Daniil A. Kitchaev, Deok-Hwang Kwon, Chang-Wook Lee, Joseph K. Papp, Yi-Sheng Liu, Zhengyan Lun, Raphaële J. Clément, Tan Shi, Bryan D. McCloskey, Jinghua Guo, Mahalingam Balasubramanian, Gerbrand Ceder*, “Reversible Mn 2+/Mn 4+ double redox in lithium-excess cathode materials.” Nature 556.7700 (2018): 185-190.DOI: https://doi.org/10.1038/s41586-018-0015-4
 
 1. Daniil A. Kitchaev* †, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey, Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, “Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes.” Energy & Environmental Science 11.8 (2018): 2159-2171. DOI: 10.1039/C8EE00816G
-
-2018 Energy and Environmental Science HOT Articles
-
-Related reading: “Frontiers of Chemical Space.” Malik, Rahul. Joule 2.8 (2018): 1403-1404.
 
 1. Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. “Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity.” Acs Catalysis 7.1 (2017): 469-479. DOI: 10.1021/acscatal.6b02573.
 
