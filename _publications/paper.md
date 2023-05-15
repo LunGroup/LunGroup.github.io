@@ -8,7 +8,7 @@ collection: publications
 
 1. Jianping Huang, Bin Ouyang, Yaqian Zhang, Liang Yin, Deok-Hwang Kwon, Zijian Cai, Zhengyan Lun, Guobo Zeng, Mahalingam Balasubramanian, Gerbrand Ceder; Inhibiting collective cation migration in Li-rich cathode materials as a strategy to mitigate voltage hysteresis. Nature Materials, 2023, 22 (3), 353-361. [https://doi.org/10.1038/s41563-022-01467-z](https://doi.org/10.1038/s41563-022-01467-z)
 
-1. Jianping Huang, Peichen Zhong, Yang Ha, Zhengyan Lun, Yaosen Tian, Mahalingam Balasubramanian, Wanli Yang, Gerbrand Ceder; Oxygen Vacancy Introduction to Increase the Capacity and Voltage Retention in Li‐Excess Cathode Materials.Small Structures 2023, 4 (1), 2200343.[https://doi.org/10.1002/sstr.202200343](https://doi.org/10.1002/sstr.202200343)
+1. Jianping Huang, Peichen Zhong, Yang Ha, Zhengyan Lun, Yaosen Tian, Mahalingam Balasubramanian, Wanli Yang, Gerbrand Ceder; Oxygen Vacancy Introduction to Increase the Capacity and Voltage Retention in Li‐Excess Cathode Materials. Small Structures 2023, 4 (1), 2200343.[https://doi.org/10.1002/sstr.202200343](https://doi.org/10.1002/sstr.202200343)
 
 1. Xinye Zhao, Yaosen Tian, Zhengyan Lun, Zijian Cai, Tina Chen, Bin Ouyang* , Gerbrand Ceder*; Design principles for zero-strain Li-ion cathodes. Joule, 2022, 6(7), 1654-1671. [https://doi.org/10.1016/j.joule.2022.05.018](https://doi.org/10.1016/j.joule.2022.05.018)
 
