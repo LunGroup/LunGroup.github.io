@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengyan Lun Group"
+title                    : "伦正言课题组"
 title_separator          : "-"
-name                     : &name "Zhengyan Lun"
+name                     : &name "伦正言"
 description              : &description "personal description"
 url                      : https://lungroup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "---伦正言"
   avatar           : "20221007_1665150112291.jpg"
-  bio              :  "中国科学院大学化学科学学院
+  bio              :  "中国科学院大学化学科学学院<br>
                        副教授，课题组组长。"
   location         : "Location"
   employer         :
