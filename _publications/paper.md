@@ -41,6 +41,7 @@ collection: publications
 1. Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. “The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance.” ChemPhysChem 15.2 (2014): 344-350. DOI: https://doi.org/10.1002/cphc.201300907
 
 1. Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. “Probing the influence of different oxygenated groups on graphene oxide’s catalytic performance.” Journal of Materials Chemistry A, 2,3 (2014): 610-613. DOI: https://doi.org/10.1039/C3TA13946H
+
 ---
 
 
