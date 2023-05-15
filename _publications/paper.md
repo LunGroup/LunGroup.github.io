@@ -1,6 +1,7 @@
 ---
 title: "Paper List"
 collection: publications
+---
 (* corresponding authorship; † co-authorship)
 
 19) Xinye Zhao, Yaosen Tian, Zhengyan Lun, Zijian Cai, Tina Chen, Bin Ouyang* , Gerbrand Ceder*; Design principles for zero-strain Li-ion cathodes. Joule, 2022, 6(7), 1654-1671. https://doi.org/10.1016/j.joule.2022.05.018
