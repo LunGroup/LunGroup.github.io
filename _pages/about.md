@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+  bbb
   2016年毕业于中国科学技术大学，获材料物理专业学士学位；<br>
   2020年毕业于美国加州大学伯克利分校，获材料科学与工程博士学位，导师Gerbrand Ceder教授；<br>
   2021-2022年6月于英国剑桥大学进行博后研究，合作导师化学系Clare P. Grey教授和物理系Akshay Rao教授。<br>
