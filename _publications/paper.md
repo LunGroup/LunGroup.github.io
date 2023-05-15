@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Paper List"
+title: "文章列表"
 collection: publications
 
 ---
