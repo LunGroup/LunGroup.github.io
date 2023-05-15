@@ -1,6 +1,8 @@
 ---
+permalink: /
 title: "Paper List"
 collection: publications
+
 ---
 (* corresponding authorship; † co-authorship)
 
