@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Paper List"
 collection: publications
 
