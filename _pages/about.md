@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "简介"
+title: "导师简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,28 +16,32 @@ redirect_from:
   课题组主要从事新型储能材料的设计、合成及表征等相关方向研究。PI与国内外诸多顶尖高校及国家实验室（如美国加州大学伯克利分校、圣巴巴拉分校、犹他大学、哥伦比亚大学、劳伦斯伯克利、橡树岭及阿贡国家实验室、加拿大麦吉尔大学、英国剑桥大学及钻石光源、中国上海交通大学、上海科技大学等）均有密切联系。课题组经费充足，自由度高，鼓励且支持申请人依据个人研究兴趣自主选择部分研究课题，诚邀对储能材料及材料表征感兴趣的青年学者加入。<br>
   PI个人主页：[https://zhengyanlun.github.io/](https://zhengyanlun.github.io/)
 
-A data-driven personal website
+招聘
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. 推免硕士生（1名）
+1. 博士后研究员（详细说明见后）
+1. 联合培养学生：目前仅接受攻读博士学位的联合培养
+1. 科研助理：一般应具有相关领域硕士学位，辅助课题组管理并进行相关研究工作。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+博士后研究员招聘说明：
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 名额充足，入职时间灵活可议，工作地点为中国科学院大学雁栖湖校区或魏桥国科高等技术研究院（滨州）。申请人应具有材料、化学、物理或其他相关领域博士学位，或入职前即将获得相应博士学位；具有锂、钠离子电池正极及固态电解质材料合成及电化学表征，同步辐射、电子显微技术或核磁共振材料表征等研究经历、具有电池产业化经验及具备一定编程能力（python、C program等）的申请人尤其鼓励申请。
+1. 申请人应具有扎实的学科基础，良好的独立科研工作能力和英文水平，良好的表达、沟通及合作能力，科研态度端正。 
+1. 待遇优厚，税前基础薪资（不含五险一金、房补等福利）不低于月薪2万元。同时，中国科学院大学为博士后研究员提供“中国科学院大学特别研究助理”资助项目（覆盖率可达90%以上，附2022年第二批申请通知为参考）。入选者年薪不低于40万（税前，包含五险一金、房补等福利待遇），“中国科学院大学特别研究助理”2023年第一批申请通知如下（截止日期2023年6月5日）：[https://mp.weixin.qq.com/s/i1gL3EHk8FFSyaEPG8zClA](https://mp.weixin.qq.com/s/i1gL3EHk8FFSyaEPG8zClA) 对于优秀的申请者，课题组会提供额外薪资及年终绩效奖励，并提供晋升机会，具体采取一事一议原则。
 
-Site-wide configuration
+研究平台简介：
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+中国科学院大学化学科学学院，是学校主要基础学院之一，2017年入选国家首批一流学科建设计划。近年来，学院校部教师科研成绩显著，在国际重要学术刊物（如Science, J.Am.Chem.Soc., Angew.Chem.Int.Ed., Adv.Mater.）上发表论文数百篇，出版学术专著多部，获国家专利多项，完成和正在承担国家科技重大专项、“973”、“863”和国家自然科学基金委各类基金项目。<br>
+魏桥国科高等技术研究院是是由世界500强山东魏桥创业集团发起创办，在中国科学院大学与山东魏桥创业集团战略合作大背景下，由滨州市人民政府设立的直属事业单位和面向未来新建新型理工类大学的研究平台。高等研究院重点围绕优势主导产业布局学科和专业方向，聚焦国家重大战略需求和地方产业振兴所需要的“高精特尖”学科专业，致力于打造汇聚国内外高水平人才的创新高地和促进产学研用协同发展的创新阵地。高端化学材料中心是魏桥国科高研院高尖端化学材料研究的分部，配备有顶尖的合成、表征等实验平台。<br>
+科研团队拥有（已到位或采购中）离子电池及固态电解质相关的全套合成、制备设备以及一系列共享平台表征设备，包括高分辨球差环境电镜（配备原位加热、电化学、冷冻等样品杆；已采购），高分辨XRD（带原位电化学及变温附件；已到位）及台式XRD（带原位电池循环附件；已采购），高分辨X射线光电子能谱（配备原位电化学附件；已采购），500M固体核磁共振谱仪（待安装），600M液体核磁共振谱仪（已到位），台式X射线吸收谱仪（采购中）；原位差分电化学质谱仪（采购中）；原位超快光学干涉散射成像仪（采购中）等先进材料表征仪器。申请人将拥有充分的机会学习储能材料的设计、优化及先进表征方面的知识与技能，并对新型储能材料进行产业化探索。
 
-Create content & metadata
+
+应聘方法：
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+欢迎对储能材料 / 材料表征研究感兴趣并希望加入课题组的青年学者进行问询或有关职业规划的探讨。应聘请将本科及以上学位的成绩单、个人简历（含完整文章清单）及应聘说明（cover letter）发送至团队负责人邮箱: zylun@ucas.ac.cn<br>
+	本招聘启事长期有效。
+
 
 **Markdown generator**
 
