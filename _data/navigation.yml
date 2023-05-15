@@ -1,22 +1,22 @@
 # main links links
 main:
 
-  - title: "Research Areas"
+  - title: "研究领域"
     url: /talks/  
 
-  - title: "Publications"
+  - title: "研究成果"
     url: /publications/
 
-  - title: "People"
+  - title: "人员"
     url: /teaching/    
     
-  - title: "Instrument"
+  - title: "仪器设备"
     url: /portfolio/
         
-  - title: "News"
+  - title: "新闻&活动"
     url: /year-archive/
     
-  - title: "Contact us & Join us"
+  - title: "联系我们&加入我们"
     url: /cv/
     
   - title: "Guide"
