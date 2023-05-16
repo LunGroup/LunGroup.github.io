@@ -1,11 +1,14 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "新闻&活动"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
+
+
+
+
+
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
