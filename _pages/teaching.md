@@ -2,9 +2,6 @@
 title: "成员介绍"
 permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 
