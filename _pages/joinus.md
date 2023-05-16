@@ -3,8 +3,7 @@ layout: archive
 title: "招聘"
 permalink: /joinus
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
