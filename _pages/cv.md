@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "招聘"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-招聘
+
 ======
 1. 推免硕士生（1名）
 1. 博士后研究员（详细说明见后）
