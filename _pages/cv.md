@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+招聘内容：
 ======
 1. 推免硕士生（1名）
 1. 博士后研究员（详细说明见后）
