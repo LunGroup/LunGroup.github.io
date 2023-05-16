@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  bbb
   2016年毕业于中国科学技术大学，获材料物理专业学士学位；<br>
   2020年毕业于美国加州大学伯克利分校，获材料科学与工程博士学位，导师Gerbrand Ceder教授；<br>
   2021-2022年6月于英国剑桥大学进行博后研究，合作导师化学系Clare P. Grey教授和物理系Akshay Rao教授。<br>
@@ -32,29 +31,16 @@ redirect_from:
 
 研究平台简介：
 ------
-中国科学院大学化学科学学院，是学校主要基础学院之一，2017年入选国家首批一流学科建设计划。近年来，学院校部教师科研成绩显著，在国际重要学术刊物（如Science, J.Am.Chem.Soc., Angew.Chem.Int.Ed., Adv.Mater.）上发表论文数百篇，出版学术专著多部，获国家专利多项，完成和正在承担国家科技重大专项、“973”、“863”和国家自然科学基金委各类基金项目。<br>
+  中国科学院大学化学科学学院，是学校主要基础学院之一，2017年入选国家首批一流学科建设计划。近年来，学院校部教师科研成绩显著，在国际重要学术刊物（如Science, J.Am.Chem.Soc., Angew.Chem.Int.Ed., Adv.Mater.）上发表论文数百篇，出版学术专著多部，获国家专利多项，完成和正在承担国家科技重大专项、“973”、“863”和国家自然科学基金委各类基金项目。<br>
 魏桥国科高等技术研究院是是由世界500强山东魏桥创业集团发起创办，在中国科学院大学与山东魏桥创业集团战略合作大背景下，由滨州市人民政府设立的直属事业单位和面向未来新建新型理工类大学的研究平台。高等研究院重点围绕优势主导产业布局学科和专业方向，聚焦国家重大战略需求和地方产业振兴所需要的“高精特尖”学科专业，致力于打造汇聚国内外高水平人才的创新高地和促进产学研用协同发展的创新阵地。高端化学材料中心是魏桥国科高研院高尖端化学材料研究的分部，配备有顶尖的合成、表征等实验平台。<br>
-科研团队拥有（已到位或采购中）离子电池及固态电解质相关的全套合成、制备设备以及一系列共享平台表征设备，包括高分辨球差环境电镜（配备原位加热、电化学、冷冻等样品杆；已采购），高分辨XRD（带原位电化学及变温附件；已到位）及台式XRD（带原位电池循环附件；已采购），高分辨X射线光电子能谱（配备原位电化学附件；已采购），500M固体核磁共振谱仪（待安装），600M液体核磁共振谱仪（已到位），台式X射线吸收谱仪（采购中）；原位差分电化学质谱仪（采购中）；原位超快光学干涉散射成像仪（采购中）等先进材料表征仪器。申请人将拥有充分的机会学习储能材料的设计、优化及先进表征方面的知识与技能，并对新型储能材料进行产业化探索。
+  科研团队拥有（已到位或采购中）离子电池及固态电解质相关的全套合成、制备设备以及一系列共享平台表征设备，包括高分辨球差环境电镜（配备原位加热、电化学、冷冻等样品杆；已采购），高分辨XRD（带原位电化学及变温附件；已到位）及台式XRD（带原位电池循环附件；已采购），高分辨X射线光电子能谱（配备原位电化学附件；已采购），500M固体核磁共振谱仪（待安装），600M液体核磁共振谱仪（已到位），台式X射线吸收谱仪（采购中）；原位差分电化学质谱仪（采购中）；原位超快光学干涉散射成像仪（采购中）等先进材料表征仪器。申请人将拥有充分的机会学习储能材料的设计、优化及先进表征方面的知识与技能，并对新型储能材料进行产业化探索。
 
 
 应聘方法：
 ------
-欢迎对储能材料 / 材料表征研究感兴趣并希望加入课题组的青年学者进行问询或有关职业规划的探讨。应聘请将本科及以上学位的成绩单、个人简历（含完整文章清单）及应聘说明（cover letter）发送至团队负责人邮箱: zylun@ucas.ac.cn<br>
+  欢迎对储能材料 / 材料表征研究感兴趣并希望加入课题组的青年学者进行问询或有关职业规划的探讨。应聘请将本科及以上学位的成绩单、个人简历（含完整文章清单）及应聘说明（cover letter）发送至团队负责人邮箱: zylun@ucas.ac.cn<br>
 	本招聘启事长期有效。
 
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
