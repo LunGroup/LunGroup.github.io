@@ -17,7 +17,7 @@ author_profile: true
 
 ### 科研助理
 
-| ![hj.jpg](/images/hj.jpg) | Item   |  
+| ![hj.jpg](/images/hj.jpg) |    |  
 | :-------: | :-------: |
 | 何佳      |           |
 
