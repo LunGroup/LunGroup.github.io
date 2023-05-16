@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "招聘"
-permalink: /joinus
+permalink: /cv/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
