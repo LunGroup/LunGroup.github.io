@@ -157,16 +157,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  people:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  instrument:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
 
