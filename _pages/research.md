@@ -10,7 +10,7 @@ title: "research"
 ![characterization.jpg](/images/characterization.jpg)
 
 
-1. 固体材料合成科学
+1. 固体材料合成科学<br>
 ![synthesis.jpg](/images/synthesis.jpg)
 
 
