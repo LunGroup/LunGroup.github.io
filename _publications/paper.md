@@ -26,7 +26,7 @@ collection: publications
 
 1. Bin Ouyang†, Nongnuch Artrith†, Zhengyan Lun†, Zinab Jadidi, Daniil A. Kitchaev, Huiwen Ji, Alexander Urban, Gerbrand Ceder*. “Effect of Fluorination on Lithium Transport and Short‐Range Order in Disordered‐Rocksalt‐Type Lithium‐Ion Battery Cathodes.” Advanced Energy Materials 10.10 (2020): 1903240. [https://doi.org/10.1002/aenm.201903240](https://doi.org/10.1002/aenm.201903240)
 
-1. Zhengyan Lun†, Bin Ouyang†, Zijian Cai, Raphaële J. Clément, Deok-Hwang Kwon, Jianping Huang, Joseph K. Papp, Mahalingam Balasubramanian, Yaosen Tian, Bryan D. McCloskey, Huiwen Ji, Haegyeom Kim, Daniil A. Kitchaev, Gerbrand Ceder*, “Design principles for high-capacity Mn-based cation-disordered rocksalt cathodes.” Chem 6.1 (2020): 153-168. [https://doi.org/10.1016/j.chempr.2019.10.001](https://doi.org/10.1016/j.chempr.2019.10.001)
+1. Zhengyan Lun†, Bin Ouyang†, Zijian Cai, Raphaële J. Clément, Deok-Hwang Kwon, Jianping Huang, Joseph K. Papp, Mahalingam Balasubramanian, Yaosen Tian, Bryan D. McCloskey, Huiwen Ji, Haegyeom Kim, Daniil A. Kitchaev, Gerbrand Ceder*, “Design principles for high-capacity Mn-based cation-disordered rocksalt cathodes.” Chem 6.1 (2020): 153-168. [https://doi.org/10.1016/j.chempr.2019.10.001](https://doi.org/10.1016/j.chempr.2019.10.001)![图片1](/images/图片1.png)
 
 1. Raphaële J. Clément, Zhengyan Lun, Gerbrand Ceder*, “Cation-disordered rocksalt transition metal oxides and oxyfluorides for high energy lithium-ion cathodes.” Energy & Environmental Science 13.2 (2020): 345-373. [https://doi.org/10.1039/C9EE02803J](https://doi.org/10.1039/C9EE02803J)
 
