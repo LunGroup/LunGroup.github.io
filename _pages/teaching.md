@@ -4,24 +4,21 @@ title: "成员介绍"
 permalink: /teaching/
 author_profile: true
 ---
+
+
 ### 博士后
 | ![yw.jpg](/images/yw.jpg)  |  ![zlg.jpg](/images/zlg.jpg)  |
-| :------------------------: | :-------------------------: |
-|  杨威  |   张立国 |  
-
-
-
+| :-------: | :-------: |
+|  杨威         |  张立国    |  
 
 ### 硕士研究生
 |  ![yrz](/images/yrz.jpg)   |  ![lyp.jpg](/images/lyp.jpg)  |
 | :-------: | :-------: |
 | 余润泽 |  李艳萍    |  
 
-
-
 ### 科研助理
 
 | ![hj.jpg](/images/hj.jpg) | Item   |  
 | :-------: | :-------: |
-| 何佳                       |        |
+| 何佳      |           |
 
