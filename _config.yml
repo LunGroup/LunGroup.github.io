@@ -154,6 +154,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md"}
+  - {title: "Dr. Zhengyan Lun", file: "ZhengyanLun.md"}
+  - {title: "Research", file: "Research.md"}
+  - {title: "Publications", file: "Publications.md"}
 
 # Collections
 collections:
