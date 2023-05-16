@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ### 博士后
-| ![yw.jpg](/images/yw.jpg)  |  ![yw.jpg](/images/yw.jpg)  |
+| ![yw.jpg](/images/yw.jpg)  |  ![zlg.jpg](/images/zlg.jpg)  |
 | :------------------------: | :-------------------------: |
 |  杨威  |   张立国 |  
 
