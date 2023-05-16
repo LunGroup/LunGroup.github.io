@@ -2,7 +2,7 @@
 main:
 
   - title: "研究领域"
-    url: /talks/  
+    url: /research/  
 
   - title: "研究成果"
     url: /publications/
