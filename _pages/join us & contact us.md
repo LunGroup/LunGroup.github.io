@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "招聘"
-permalink: /cv/
+permalink: /join us & contact us
 author_profile: true
 redirect_from:
   - /resume
