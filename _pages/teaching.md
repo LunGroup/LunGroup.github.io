@@ -6,18 +6,18 @@ author_profile: true
 
 
 ### 博士后
-| ![yw.jpg](/images/yw.jpg)  |  ![zlg.jpg](/images/zlg.jpg)  |
+| ![yw.jpg](/images/yw.jpg)  |  ![zlg.jpg](/images/zlg.jpg)  |<br>
 | :-------: | :-------: |
 |  杨威         |  张立国    |  
 
 ### 硕士研究生
-|  ![yrz](/images/yrz.jpg)   |  ![lyp.jpg](/images/lyp.jpg)  |
+|  ![yrz](/images/yrz.jpg)   |  ![lyp.jpg](/images/lyp.jpg)  |<br>
 | :-------: | :-------: |
 | 余润泽 |  李艳萍    |  
 
 ### 科研助理
 
-| ![hj.jpg](/images/hj.jpg) |    |  
+| ![hj.jpg](/images/hj.jpg) |    |  <br>
 | :-------: | :-------: |
 | 何佳      |           |
 
