@@ -6,29 +6,18 @@ author_profile: true
 ---
 ### 博士后
 | ![yw.jpg](/images/yw.jpg)  |  ![yw.jpg](/images/yw.jpg)  |
-| :-------: | :-------: |
-|  杨威         |   |  
-|                                 |          张立国             |  
-|                                     | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)                       | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)                        | 2022   | Description of the item in the list                          |
+| :------------------------: | :-------------------------: |
+|  杨威  |   张立国 |  
+
 
 ### 博士研究生
 
-| Entry            | Item   |                                                              |
-| :-------:        | :-------: | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 ### 硕士研究生
 |  ![yrz](/images/yrz.jpg)   |  ![lyp.jpg](/images/lyp.jpg)  |
 | :-------: | :-------: |
 | 余润泽 |  李艳萍    |  
-|                             |                      | 
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
 
 
 ### 科研助理
@@ -36,6 +25,4 @@ author_profile: true
 | ![hj.jpg](/images/hj.jpg) | Item   |  
 | :-------: | :-------: |
 | 何佳                       |        |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
