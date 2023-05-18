@@ -4,7 +4,7 @@ title: "文章列表"
 collection: publications
 
 ---
-1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun*, Yong Yang*; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709.)
+1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun*, Yong Yang*; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
 
 1. Jianping Huang, Bin Ouyang, Yaqian Zhang, Liang Yin, Deok-Hwang Kwon, Zijian Cai, Zhengyan Lun, Guobo Zeng, Mahalingam Balasubramanian, Gerbrand Ceder*; Inhibiting collective cation migration in Li-rich cathode materials as a strategy to mitigate voltage hysteresis. Nature Materials, 2023, 22 (3), 353-361. [https://doi.org/10.1038/s41563-022-01467-z](https://doi.org/10.1038/s41563-022-01467-z)
 
@@ -18,9 +18,9 @@ collection: publications
 
 1.  Linze Li†, Zhengyan Lun†, Dongchang Chen, Yuan Yue, Wei Tong, Guoying Chen, Gerbrand Ceder* , and Chongmin Wang*. “Fluorination‐Enhanced Surface Stability of Cation‐Disordered Rocksalt Cathodes for Li‐Ion Batteries.” Advanced Functional Materials (2021): 2101888. [https://doi.org/10.1002/adfm.202101888](https://doi.org/10.1002/adfm.202101888)
 
-1. Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. “Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization.” Chemical reviews 121.3 (2020): 1623-1669. [https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.)
+1. Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. “Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization.” Chemical reviews 121.3 (2020): 1623-1669. [https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767)
 
-1. Peichen Zhong†, Zijian Cai†, Yaqian Zhang, Raynald Giovine, Bin Ouyang, Guobo Zeng, Yu Chen, Raphaële Clément, Zhengyan Lun* , Gerbrand Ceder*. “Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping.” Chemistry of Materials 32.24 (2020): 10728-10736. [https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109.](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109.)
+1. Peichen Zhong†, Zijian Cai†, Yaqian Zhang, Raynald Giovine, Bin Ouyang, Guobo Zeng, Yu Chen, Raphaële Clément, Zhengyan Lun* , Gerbrand Ceder*. “Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping.” Chemistry of Materials 32.24 (2020): 10728-10736. [https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109.](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109)
 
 1.  Deok-Hwang Kwon* †, Jinhyuk Lee†, Nongnuch Artrith, Hyunchul Kim, Lijun Wu, Zhengyan Lun, Yaosen Tian, Yimei Zhu, Gerbrand Ceder*. “The Impact of Surface Structure Transformations on the Performance of Li-Excess Cation-Disordered Rocksalt Cathodes.” Cell Reports Physical Science 1.9 (2020): 100187. [https://doi.org/10.1016/j.xcrp.2020.100187](https://doi.org/10.1016/j.xcrp.2020.100187)
 
@@ -38,7 +38,7 @@ collection: publications
 
 1. Daniil A. Kitchaev* †, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey, Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, “Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes.” Energy & Environmental Science 11.8 (2018): 2159-2171. [https://doi.org/10.1039/C8EE00816G](https://doi.org/10.1039/C8EE00816G)
 
-1. Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. “Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity.” Acs Catalysis 7.1 (2017): 469-479. [https://doi.org/10.1021/acscatal.6b02573.](https://doi.org/10.1021/acscatal.6b02573.)
+1. Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. “Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity.” Acs Catalysis 7.1 (2017): 469-479. [https://doi.org/10.1021/acscatal.6b02573.](https://doi.org/10.1021/acscatal.6b02573)
 
 1. Yang Yang, Fangcai Zheng, Guoliang Xia, Zhengyan Lun, Qianwang Chen*. “Experimental and theoretical investigations of nitro-group doped porous carbon as a high performance lithium-ion battery anode.” Journal of Materials Chemistry A 3.36 (2015): 18657-18666. [https://doi.org/10.1039/C5TA05676D](https://doi.org/10.1039/C5TA05676D)
 
