@@ -8,8 +8,8 @@ author_profile: true
 ### 博士后
 
 | ![yw.jpg](/images/yw.jpg) | ![zlg.jpg](/images/zlg.jpg) |
-|:--------|:-------:|
-| 杨威   | 张立国   | 
+|:--------:|:-------:|
+| 杨威-1   | 张立国   | 
 
 ### 硕士研究生
 
