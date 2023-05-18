@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research
+permalink: /talks/
 title: "research"
 ---
 
