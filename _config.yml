@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "CN"
 title                    : "伦正言课题组"
 title_separator          : "-"
 name                     : &name "伦正言"
@@ -26,7 +26,6 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -56,12 +55,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -82,20 +75,15 @@ analytics:
 author:
   name             : "伦正言"
   avatar           : "20221007_1665150112291.jpg"
-  bio              :  "中国科学院大学化学科学学院<br>
-                       副教授，课题组组长。"
-  location         : "Location"
-  employer         :
+  location         : "中国科学院大学化学科学学院"
+  bio              :  "副教授，课题组组长。"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9OqMRZYAAAAJ&hl=en&oi=ao"
-  email            : "zylun@ucas.ac.cn"
+  email            : zylun@ucas.ac.cn"zylun@ucas.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   github           : "zhengyanlun.github.io"
   google_plus      :
-  keybase          :
-  lastfm           :
-  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   
   
@@ -154,12 +142,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
-  - {title: "Dr. Zhengyan Lun", file: "ZhengyanLun.md"}
-  - {title: "Research", file: "Research.md"}
-  - {title: "Publications", file: "Publications.md"}
-
 # Collections
 collections:
   people:
@@ -199,7 +181,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: people
     values:
       layout: single
       author_profile: true
@@ -217,7 +199,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Instrument
     values:
       layout: single
       author_profile: true
