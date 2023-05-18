@@ -17,7 +17,7 @@ author_profile: true
 
 ### 科研助理
 
-| ![hj.jpg](/images/hj.jpg) |    | 
+| ![hj.jpg](/images/hj.jpg) | ![lfj.jpg](/images/lfj.png) | 
 | :-------: | :-------: |
-| 何佳      |           |
+| 何佳      |   刘凡君   |
 
