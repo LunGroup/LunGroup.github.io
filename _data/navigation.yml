@@ -1,9 +1,9 @@
 # main links links
 main:
 
-  - title: "研究领域"
-    url: /research/  
-    file：research.md
+  - {title: "研究领域", url: /research/ , file：research.md}
+     
+    
 
   - title: "研究成果"
     url: /publications/
