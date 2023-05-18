@@ -1,4 +1,5 @@
 ---
+layout：archive
 title: "成员介绍-1"
 permalink: /teaching/
 author_profile: true
@@ -6,9 +7,9 @@ author_profile: true
 
 
 ### 博士后
-| ![yw.jpg](/images/yw.jpg)  |  ![zlg.jpg](/images/zlg.jpg)  |
+ |![yw.jpg](/images/yw.jpg)|![zlg.jpg](/images/zlg.jpg)|  
 | :-------: | :-------: |
-|  杨威         |  张立国    |  
+  杨威      张立国   
 
 ### 硕士研究生
 |  ![yrz](/images/yrz.jpg)   |  ![lyp.jpg](/images/lyp.jpg)  |
