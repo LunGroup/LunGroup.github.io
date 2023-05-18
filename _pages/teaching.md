@@ -11,13 +11,13 @@ author_profile: true
 | 杨威      |   张立国   |
 
 ### 硕士研究生
-| ![yrz](/images/yrz.jpg) | ![lyp.jpg](/images/lyp.jpg) | 
+| ![yrz](/images/yrz.jpg) | ![lyp-1.jpg](/images/lyp-1.jpg) | 
 | :-------: | :-------: |
 | 余润泽      |   李艳萍   |
 
 ### 科研助理
 
-| ![hj.jpg](/images/hj.jpg) | ![lfj.jpg](/images/lfj.png) | 
+| ![hj-1.jpg](/images/hj-1.jpg) | ![lfj-1.jpg](/images/lfj-1.png) | 
 | :-------: | :-------: |
 | 何佳      |   刘凡君   |
 
