@@ -1,5 +1,5 @@
 ---
-title: "成员介绍-1"
+title: "成员介绍"
 permalink: /teaching/
 author_profile: true
 ---
