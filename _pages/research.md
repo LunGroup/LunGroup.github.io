@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /talks/
-title: "research"
+title: ""
 ---
 
 1. 新型储能材料的设计与合成，如锂、钠离子电池电极及固态电解质等。
