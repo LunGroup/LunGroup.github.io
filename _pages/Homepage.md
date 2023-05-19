@@ -19,5 +19,5 @@ redirect_from:
 
 相关链接：
 ------
-[https://chem.ucas.ac.cn](化学科学学院)   [https://www.ucas.ac.cn/](中国科学院大学)
+[中国科学院大学](https://www.ucas.ac.cn/) <br>  [化学科学学院](https://chem.ucas.ac.cn) 
 
