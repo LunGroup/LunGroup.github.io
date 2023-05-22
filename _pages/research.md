@@ -15,7 +15,7 @@ title: ""
 ![synthesis.jpg](/images/synthesis.jpg)
 
 
-1. 其他你个人感兴趣的相关研究方向
+
 
 
 
