@@ -29,9 +29,9 @@ author_profile: true
 
 ### 本科生
 
-| ![.jpg](/images/.jpg) | ![.jpg](/images/.png) | 
+| ![yzy.jpg](/images/yzy.jpg) | ![hzy.jpg](/images/hzy.jpg) | 
 | :-------: | :-------: |
-|      |     |
+|   尤梓羽 (2021级本科)   |  胡之源 (2021级本科)   |
 
 
 ### 科研助理
@@ -40,6 +40,6 @@ author_profile: true
 | :-------: | :-------: |
 | 何佳 (2022/08)     |   刘凡君 (202/04)  |
 
-| ![lpy.jpg](/images/lpy.jpg) | ![.jpg](/images/.png) | 
+| ![lpy-1.jpg](/images/lpy-1.jpg) | ![.jpg](/images/.png) | 
 | :-------: | :-------: |
 |   林佩仪   |     |
