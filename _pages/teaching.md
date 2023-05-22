@@ -23,7 +23,7 @@ author_profile: true
 | :-------: | :-------: |
 | 余润泽 (2022级硕士) |   李艳萍  (2022级硕士)    |
 
-| ![gc.jpg](/images/.jpg) | ![hx.jpg](/images/hx.jpg) | 
+| ![gc.jpg](/images/gc.jpg) | ![hx.jpg](/images/hx.jpg) | 
 | :-------: | :-------: |
 |   郭成 (2023级硕士)   |  黄翔 (2023级硕士)  |
 
@@ -39,3 +39,7 @@ author_profile: true
 | ![hj-1.jpg](/images/hj-1.jpg) | ![lfj-1.jpg](/images/lfj-1.png) | 
 | :-------: | :-------: |
 | 何佳 (2022/08)     |   刘凡君 (202/04)  |
+
+| ![lpy.jpg](/images/lpy.jpg) | ![.jpg](/images/.png) | 
+| :-------: | :-------: |
+|   林佩仪   |     |
