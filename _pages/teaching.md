@@ -9,17 +9,33 @@ author_profile: true
 
 | ![yw.jpg](/images/yw.jpg) | ![zlg.jpg](/images/zlg.jpg) |
 |:--------:|:-------:|
-| 杨威-1   | 张立国   | 
+| 杨威   | 张立国   | 
+
+### 博士研究生
+
+| ![hj-1.jpg](/images/hj-1.jpg) | 
+| :-------: | 
+| 何佳 (2023级博士)     | 
 
 ### 硕士研究生
 
 | ![yrz](/images/yrz.jpg) | ![lyp-1.jpg](/images/lyp-1.jpg) | 
 | :-------: | :-------: |
-| 余润泽      |   李艳萍   |
+| 余润泽 (2022级硕士) |   李艳萍  (2022级硕士)    |
+
+| ![.jpg](/images/.jpg) | ![.jpg](/images/.png) | 
+| :-------: | :-------: |
+|      |     |
+
+### 本科生
+
+| ![.jpg](/images/.jpg) | ![.jpg](/images/.png) | 
+| :-------: | :-------: |
+|      |     |
+
 
 ### 科研助理
 
 | ![hj-1.jpg](/images/hj-1.jpg) | ![lfj-1.jpg](/images/lfj-1.png) | 
 | :-------: | :-------: |
-| 何佳      |   刘凡君   |
-
+| 何佳 (2022/08)     |   刘凡君 (202/04)  |
