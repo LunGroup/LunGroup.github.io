@@ -61,7 +61,7 @@ collection: publications
 1. Jinhyuk Lee* , Daniil A. Kitchaev, Deok-Hwang Kwon, Chang-Wook Lee, Joseph K. Papp, Yi-Sheng Liu, Zhengyan Lun, Raphaële J. Clément, Tan Shi, Bryan D. McCloskey, Jinghua Guo, Mahalingam Balasubramanian, Gerbrand Ceder*, “Reversible Mn 2+/Mn 4+ double redox in lithium-excess cathode materials.” Nature 556.7700 (2018): 185-190.[https://doi.org/10.1038/s41586-018-0015-4](https://doi.org/10.1038/s41586-018-0015-4)
 
 1. Daniil A. Kitchaev* †, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey, Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, “Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes.” Energy & Environmental Science 11.8 (2018): 2159-2171. [https://doi.org/10.1039/C8EE00816G](https://doi.org/10.1039/C8EE00816G)<br>
-![Design principles for high](//images/TOC/Design principles for high.jpg)
+![Design principles for high](/images/TOC/Design principles for high.jpg)
 
 2015-2017
 ---
