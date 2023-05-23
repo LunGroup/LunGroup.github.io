@@ -29,6 +29,10 @@ author_profile: true
 
 ### 本科生
 
+| ![xfj.jpg](/images/xfj.jpg) | 
+| :-------: | 
+|   向方杰 (2020级本科)   | 
+
 | ![yzy.jpg](/images/yzy.jpg) | ![hzy.jpg](/images/hzy.jpg) | 
 | :-------: | :-------: |
 |   尤梓羽 (2021级本科)   |  胡之源 (2021级本科)   |
