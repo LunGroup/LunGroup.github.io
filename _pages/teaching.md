@@ -29,7 +29,7 @@ author_profile: true
 
 ### 本科生
 
-| ![xfj.jpg](/images/xfj.jpg) | 
+| ![xfj.jpg](/images/xfj-1.jpg) | 
 | :-------: | 
 |   向方杰 (2020级本科)   | 
 
