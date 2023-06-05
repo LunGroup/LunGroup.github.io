@@ -6,7 +6,7 @@ collection: publications
 ---
 2023
 ---
-1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun*, Yong Yang*; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
+1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun* , Yong Yang* ; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
 
 1. Jianping Huang, Bin Ouyang, Yaqian Zhang, Liang Yin, Deok-Hwang Kwon, Zijian Cai, Zhengyan Lun, Guobo Zeng, Mahalingam Balasubramanian, Gerbrand Ceder*; Inhibiting collective cation migration in Li-rich cathode materials as a strategy to mitigate voltage hysteresis. Nature Materials, 2023, 22 (3), 353-361. [https://doi.org/10.1038/s41563-022-01467-z](https://doi.org/10.1038/s41563-022-01467-z)
 
