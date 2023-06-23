@@ -6,6 +6,17 @@ collection: publications
 ---
 2023
 ---
+1. Chao Xu, Alice J. Merryweather, Shrinidhi S. Pandurangi, Zhengyan Lun, David S. Hall, Vikram S. Deshpande, Norman A. Fleck, Christoph Schnedermann* , Akshay Rao* , Clare P. Grey* ;
+Operando visualization of kinetically induced lithium heterogeneities in single-particle layered Ni-rich cathodes, Joule, 6, 11, 2022, 2535-2546, [https://doi.org/10.1016/j.joule.2022.09.008](https://doi.org/10.1016/j.joule.2022.09.008).
+[https://www.sciencedirect.com/science/article/pii/S2542435122004743](https://www.sciencedirect.com/science/article/pii/S2542435122004743)<br>
+![Operando visualization.jpg](/images/TOC/Operando visualization.jpg)
+
+1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
+![Modeling Short-Range Order.jpeg](/images/TOC/Modeling Short-Range Order.jpeg)
+
+1. Li, Lizhi;  Tan, Guangsu;  Tao, Jiangwei;  Lun, Zhengyan*; Xu, Chao* ; Benchmarking the Performance of Moisture-Sensitive Battery Materials: the Importance of the Electrode Preparation Method. ACS Applied Energy Materials 2023. [doi:10.1021/acsaem.3c00926](doi:10.1021/acsaem.3c00926)<br>
+![Benchmarking the Performance.jpeg](/images/TOC/Benchmarking the Performance.jpeg)
+
 1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun* , Yong Yang* ; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
 
 1. Jianping Huang, Bin Ouyang, Yaqian Zhang, Liang Yin, Deok-Hwang Kwon, Zijian Cai, Zhengyan Lun, Guobo Zeng, Mahalingam Balasubramanian, Gerbrand Ceder*; Inhibiting collective cation migration in Li-rich cathode materials as a strategy to mitigate voltage hysteresis. Nature Materials, 2023, 22 (3), 353-361. [https://doi.org/10.1038/s41563-022-01467-z](https://doi.org/10.1038/s41563-022-01467-z)
