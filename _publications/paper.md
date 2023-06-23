@@ -6,11 +6,6 @@ collection: publications
 ---
 2023
 ---
-1. Chao Xu, Alice J. Merryweather, Shrinidhi S. Pandurangi, Zhengyan Lun, David S. Hall, Vikram S. Deshpande, Norman A. Fleck, Christoph Schnedermann* , Akshay Rao* , Clare P. Grey* ;
-Operando visualization of kinetically induced lithium heterogeneities in single-particle layered Ni-rich cathodes, Joule, 6, 11, 2022, 2535-2546, [https://doi.org/10.1016/j.joule.2022.09.008](https://doi.org/10.1016/j.joule.2022.09.008).
-[https://www.sciencedirect.com/science/article/pii/S2542435122004743](https://www.sciencedirect.com/science/article/pii/S2542435122004743)<br>
-![Operando visualization.jpg](/images/TOC/Operando visualization.jpg)
-
 1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
 ![Modeling Short-Range Order.jpeg](/images/TOC/Modeling Short-Range Order.jpeg)
 
@@ -26,6 +21,10 @@ Operando visualization of kinetically induced lithium heterogeneities in single-
 
 2022
 ---
+1. Chao Xu, Alice J. Merryweather, Shrinidhi S. Pandurangi, Zhengyan Lun, David S. Hall, Vikram S. Deshpande, Norman A. Fleck, Christoph Schnedermann* , Akshay Rao* , Clare P. Grey* ;
+Operando visualization of kinetically induced lithium heterogeneities in single-particle layered Ni-rich cathodes, Joule, 6, 11, 2022, 2535-2546, [https://doi.org/10.1016/j.joule.2022.09.008](https://doi.org/10.1016/j.joule.2022.09.008).<br>
+![Operando visualization.jpg](/images/TOC/Operando visualization.jpg)
+
 1. Xinye Zhao, Yaosen Tian, Zhengyan Lun, Zijian Cai, Tina Chen, Bin Ouyang* , Gerbrand Ceder*; Design principles for zero-strain Li-ion cathodes. Joule, 2022, 6(7), 1654-1671. [https://doi.org/10.1016/j.joule.2022.05.018](https://doi.org/10.1016/j.joule.2022.05.018)<br>
 ![Design principles](/images/TOC/Design principles.jpg)
 
