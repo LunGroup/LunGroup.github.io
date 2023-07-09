@@ -9,7 +9,7 @@ collection: publications
 1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
 ![Modeling Short-Range Order.jpeg](/images/TOC/Modeling Short-Range Order.jpeg)
 
-1. Li, Lizhi;  Tan, Guangsu;  Tao, Jiangwei;  Lun, Zhengyan*; Xu, Chao* ; Benchmarking the Performance of Moisture-Sensitive Battery Materials: the Importance of the Electrode Preparation Method. ACS Applied Energy Materials 2023. [doi:10.1021/acsaem.3c00926](doi:10.1021/acsaem.3c00926)<br>
+1. Li, Lizhi;  Tan, Guangsu;  Tao, Jiangwei;  Lun, Zhengyan* , Xu, Chao* ; Benchmarking the Performance of Moisture-Sensitive Battery Materials: the Importance of the Electrode Preparation Method. ACS Applied Energy Materials 2023. [doi:10.1021/acsaem.3c00926](doi:10.1021/acsaem.3c00926)<br>
 ![Benchmarking the Performance.jpeg](/images/TOC/Benchmarking the Performance.jpeg)
 
 1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun* , Yong Yang* ; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
