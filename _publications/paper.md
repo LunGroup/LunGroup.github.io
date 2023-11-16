@@ -6,6 +6,8 @@ collection: publications
 ---
 2023
 ---
+1. Cai, Zijian;  Ouyang, Bin;  Hau, Han-Ming;  Chen, Tina;  Giovine, Raynald;  Koirala, Krishna Prasad;  Li, Linze;  Ji, Huiwen;  Ha, Yang;  Sun, Yingzhi;  Huang, Jianping;  Chen, Yu;  Wu, Vincent;  Yang, Wanli;  Wang, Chongmin;  Clément, Raphaële J.;  Lun, Zhengyan* ; Ceder, Gerbrand* , In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy 2023. [doi:10.1038/s41560-023-01375-9](doi:10.1038/s41560-023-01375-9)
+
 1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
 ![Modeling Short-Range Order.jpeg](/images/TOC/Modeling Short-Range Order.jpeg)
 
