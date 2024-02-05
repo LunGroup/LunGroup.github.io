@@ -4,8 +4,18 @@ title: "论文列表"
 collection: publications
 
 ---
+
+2024
+---
+1. Chen, Yu;  Lun, Zhengyan;  Zhao, Xinye;  Koirala, Krishna Prasad;  Li, Linze;  Sun, Yingzhi;  O’Keefe, Christopher A.;  Yang, Xiaochen;  Cai, Zijian;  Wang, Chongmin;  Ji, Huiwen;  Grey, Clare P.;  Ouyang, Bin; Ceder, Gerbrand, Unlocking Li superionic conductivity in face-centred cubic oxides via face-sharing configurations. Nature Materials 2024. [doi:10.1038/s41563-024-01800-8](doi:10.1038/s41563-024-01800-8)
+
+
+
+
 2023
 ---
+1. Li, Linze;  Ouyang, Bin* ;  Lun, Zhengyan;  Huo, Haoyan;  Chen, Dongchang;  Yue, Yuan;  Ophus, Colin;  Tong, Wei;  Chen, Guoying;  Ceder, Gerbrand* ; Wang, Chongmin* , Atomic-scale probing of short-range order and its impact on electrochemical properties in cation-disordered oxide cathodes. Nature Communications 2023, 14 (1), 7448. [doi:10.1038/s41467-023-43356-2](doi:10.1038/s41467-023-43356-2)
+
 1. Cai, Zijian;  Ouyang, Bin;  Hau, Han-Ming;  Chen, Tina;  Giovine, Raynald;  Koirala, Krishna Prasad;  Li, Linze;  Ji, Huiwen;  Ha, Yang;  Sun, Yingzhi;  Huang, Jianping;  Chen, Yu;  Wu, Vincent;  Yang, Wanli;  Wang, Chongmin;  Clément, Raphaële J.;  Lun, Zhengyan* ; Ceder, Gerbrand* , In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy 2023. [doi:10.1038/s41560-023-01375-9](doi:10.1038/s41560-023-01375-9)
 
 1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
