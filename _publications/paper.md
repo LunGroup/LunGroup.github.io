@@ -65,7 +65,7 @@ Operando visualization of kinetically induced lithium heterogeneities in single-
 ![Effect of Fluorination](/images/TOC/Effect of Fluorination.jpg)
 
 1. Zhengyan Lun†, Bin Ouyang†, Zijian Cai, Raphaële J. Clément, Deok-Hwang Kwon, Jianping Huang, Joseph K. Papp, Mahalingam Balasubramanian, Yaosen Tian, Bryan D. McCloskey, Huiwen Ji, Haegyeom Kim, Daniil A. Kitchaev, Gerbrand Ceder*, “Design principles for high-capacity Mn-based cation-disordered rocksalt cathodes.” Chem 6.1 (2020): 153-168. [https://doi.org/10.1016/j.chempr.2019.10.001](https://doi.org/10.1016/j.chempr.2019.10.001)<br>
-![图片1](/images/图片1.png)
+![图片1](/images/TOC/图片1.png)
 
 1. Raphaële J. Clément, Zhengyan Lun, Gerbrand Ceder*, “Cation-disordered rocksalt transition metal oxides and oxyfluorides for high energy lithium-ion cathodes.” Energy & Environmental Science 13.2 (2020): 345-373. [https://doi.org/10.1039/C9EE02803J](https://doi.org/10.1039/C9EE02803J)<br>
 ![Cation-disordered rocksalt](/images/TOC/Cation-disordered rocksalt .jpg)
