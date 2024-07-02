@@ -7,21 +7,21 @@ collection: publications
 
 2024
 ---
-1. Yu Chen;  Zhengyan Lun;  Xinye Zhao;  Krishna Prasad Koirala;  Linze Li;  Yingzhi Sun;  Christopher A. O’Keefe;  Xiaochen Yang;  Zijian Cai;  Chongmin Wang;  Huiwen Ji* ;  Clare P. Grey* ;  Bin Ouyang* ; Gerbrand Ceder* , Unlocking Li superionic conductivity in face-centred cubic oxides via face-sharing configurations. Nature Materials 2024. [doi:10.1038/s41563-024-01800-8](doi:10.1038/s41563-024-01800-8)
+1. Yu Chen;  Zhengyan Lun;  Xinye Zhao;  Krishna Prasad Koirala;  Linze Li;  Yingzhi Sun;  Christopher A. O’Keefe;  Xiaochen Yang;  Zijian Cai;  Chongmin Wang;  Huiwen Ji* ;  Clare P. Grey* ;  Bin Ouyang* ; Gerbrand Ceder* , Unlocking Li superionic conductivity in face-centred cubic oxides via face-sharing configurations. Nature Materials 2024. [https://doi.org/10.1038/s41563-024-01800-8](https://doi.org/10.1038/s41563-024-01800-8)
 
 
 
 
 2023
 ---
-1. Linze Li;  Bin Ouyang* ;  Zhengyan Lun;  Haoyan Huo;  Dongchang Chen;  Yuan Yue;  Colin Ophus;  Wei Tong;  Guoying Chen;  Gerbrand Ceder* ; Chongmin Wang* , Atomic-scale probing of short-range order and its impact on electrochemical properties in cation-disordered oxide cathodes. Nature Communications 2023, 14 (1), 7448.  [doi:10.1038/s41467-023-43356-2](doi:10.1038/s41467-023-43356-2)
+1. Linze Li;  Bin Ouyang* ;  Zhengyan Lun;  Haoyan Huo;  Dongchang Chen;  Yuan Yue;  Colin Ophus;  Wei Tong;  Guoying Chen;  Gerbrand Ceder* ; Chongmin Wang* , Atomic-scale probing of short-range order and its impact on electrochemical properties in cation-disordered oxide cathodes. Nature Communications 2023, 14 (1), 7448.  [https://doi.org/10.1038/s41467-023-43356-2](https://doi.org/10.1038/s41467-023-43356-2)
 
-1. Cai, Zijian;  Ouyang, Bin;  Hau, Han-Ming;  Chen, Tina;  Giovine, Raynald;  Koirala, Krishna Prasad;  Li, Linze;  Ji, Huiwen;  Ha, Yang;  Sun, Yingzhi;  Huang, Jianping;  Chen, Yu;  Wu, Vincent;  Yang, Wanli;  Wang, Chongmin;  Clément, Raphaële J.;  Lun, Zhengyan* ; Ceder, Gerbrand* , In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy 2023. [doi:10.1038/s41560-023-01375-9](doi:10.1038/s41560-023-01375-9)
+1. Cai, Zijian;  Ouyang, Bin;  Hau, Han-Ming;  Chen, Tina;  Giovine, Raynald;  Koirala, Krishna Prasad;  Li, Linze;  Ji, Huiwen;  Ha, Yang;  Sun, Yingzhi;  Huang, Jianping;  Chen, Yu;  Wu, Vincent;  Yang, Wanli;  Wang, Chongmin;  Clément, Raphaële J.;  Lun, Zhengyan* ; Ceder, Gerbrand* , In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy 2023. [https://doi.org/10.1038/s41560-023-01375-9](https://doi.org/10.1038/s41560-023-01375-9)
 
-1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[doi:10.1021/acs.chemmater.2c03827](doi:10.1021/acs.chemmater.2c03827)<br>
+1. Nathan J. Szymanski, Lun, Zhengyan, Liu, Jue, Self, Ethan C., Bartel, Christopher J., Nanda, Jagjit, Ouyang, Bin* , Ceder, Gerbrand* ; Modeling Short-Range Order in Disordered Rocksalt Cathodes by Pair Distribution Function Analysis. Chemistry of Materials, 2023.[https://doi.org/10.1021/acs.chemmater.2c03827](https://doi.org/10.1021/acs.chemmater.2c03827)<br>
 ![Modeling Short-Range Order.jpeg](/images/TOC/Modeling Short-Range Order.jpeg)
 
-1. Li, Lizhi;  Tan, Guangsu;  Tao, Jiangwei;  Lun, Zhengyan* , Xu, Chao* ; Benchmarking the Performance of Moisture-Sensitive Battery Materials: the Importance of the Electrode Preparation Method. ACS Applied Energy Materials 2023. [doi:10.1021/acsaem.3c00926](doi:10.1021/acsaem.3c00926)<br>
+1. Li, Lizhi;  Tan, Guangsu;  Tao, Jiangwei;  Lun, Zhengyan* , Xu, Chao* ; Benchmarking the Performance of Moisture-Sensitive Battery Materials: the Importance of the Electrode Preparation Method. ACS Applied Energy Materials 2023. [https://doi.org/10.1021/acsaem.3c00926](https://doi.org/10.1021/acsaem.3c00926)<br>
 ![Benchmarking the Performance.jpeg](/images/TOC/Benchmarking the Performance.jpeg)
 
 1. Ke Zhou, Chunyang Zhang, Yining Li, Xiangsi Liu, Jianjun Liu, Zhengyan Lun* , Yong Yang* ; A Critical Evaluation of Interfacial Stability in Li-excess Cation-disordered Rock-salt Oxide Cathode. Chemical Engineering Journal, 2023, 464, 142709. [https://doi.org/10.1016/j.cej.2023.142709.](https://doi.org/10.1016/j.cej.2023.142709)
