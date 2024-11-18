@@ -7,6 +7,10 @@ collection: publications
 
 2024
 ---
+1. Yuchen Zhang;  Hao Chen;  Runze Yu;  Wei Yang;  Jia He;  Haoyang Li;  Xianhu Sun; Zhengyan Lun* , Unlocking fast Li-ion transport in micrometer-sized Mn-based cation-disordered rocksalt cathodes. Journal of Energy Chemistry 2024, 99, 645-653. [https://doi.org/10.1016/j.jechem.2024.08.012](https://doi.org/10.1016/j.jechem.2024.08.012)
+
+1. Peichen Zhong;  Bowen Deng;  Tanjin He;  Zhengyan Lun; Gerbrand Ceder* , Deep learning of experimental electrochemistry for battery cathodes across diverse compositions. Joule 2024, 8 (6), 1837-1854. [https://doi:10.1016/j.joule.2024.03.010](doi:10.1016/j.joule.2024.03.010)
+
 1. Yu Chen;  Zhengyan Lun;  Xinye Zhao;  Krishna Prasad Koirala;  Linze Li;  Yingzhi Sun;  Christopher A. O’Keefe;  Xiaochen Yang;  Zijian Cai;  Chongmin Wang;  Huiwen Ji* ;  Clare P. Grey* ;  Bin Ouyang* ; Gerbrand Ceder* , Unlocking Li superionic conductivity in face-centred cubic oxides via face-sharing configurations. Nature Materials 2024. [https://doi.org/10.1038/s41563-024-01800-8](https://doi.org/10.1038/s41563-024-01800-8)
 
 
