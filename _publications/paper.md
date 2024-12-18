@@ -7,6 +7,8 @@ collection: publications
 
 2024
 ---
+1. Fanjun Liu;  Jia He;  Hao Chen;  Wei Yang;  Runze Yu; Zhengyan Lun* , Design Principles for High‐Capacity, Long‐Life Cation‐Disordered Rocksalt Cathodes. Advanced Functional Materials 2024. [https://doi:10.1002/adfm.202419907](https://doi:10.1002/adfm.202419907)
+
 1. Yuchen Zhang;  Hao Chen;  Runze Yu;  Wei Yang;  Jia He;  Haoyang Li;  Xianhu Sun; Zhengyan Lun* , Unlocking fast Li-ion transport in micrometer-sized Mn-based cation-disordered rocksalt cathodes. Journal of Energy Chemistry 2024, 99, 645-653. [https://doi.org/10.1016/j.jechem.2024.08.012](https://doi.org/10.1016/j.jechem.2024.08.012)
 
 1. Peichen Zhong;  Bowen Deng;  Tanjin He;  Zhengyan Lun; Gerbrand Ceder* , Deep learning of experimental electrochemistry for battery cathodes across diverse compositions. Joule 2024, 8 (6), 1837-1854. [https://doi:10.1016/j.joule.2024.03.010](doi:10.1016/j.joule.2024.03.010)
