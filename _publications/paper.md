@@ -10,7 +10,7 @@ collection: publications
 1. Hao Chen#, Yuchen Zhang#,  Yongjian Zhao#,  Junhong Liao,  Jia He,  Runze Yu,  Shendong Tan,  Runjie Zhang,  Tingzheng Hou* ,  Xianhu Sun* , Zhengyan Lun* , Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. Energy Storage Materials 2024, 103990. [https://doi.org/10.1016/j.ensm.2024.103990](https://doi.org/10.1016/j.ensm.2024.103990)<br>
 ![1-s2.0-S2405829724008171-ga1.jpg](/images/TOC/1-s2.0-S2405829724008171-ga1.jpg)
 
-1. Yu Chen, Xinye Zhao, Ke Chen, Krishna Prasad Koirala, Raynald Giovine, Xiaochen Yang, Shilong Wang, Nathan J. Szymanski, Shuoyan Xiong, Zhengyan Lun, Huiwen Ji, Chongmin Wang, Jianming Bai, Feng Wang, Bin Ouyang*, and Gerbrand Ceder* , Coherent-Precipitation-Stabilized Phase Formation in Over-Stoichiometric Rocksalt-Type Li Superionic Conductors. Adv Mater 2024, e2416342. [https://doi.org/10.1002/adma.202416342](https://doi.org/10.1002/adma.202416342)
+1. Yu Chen, Xinye Zhao, Ke Chen, Krishna Prasad Koirala, Raynald Giovine, Xiaochen Yang, Shilong Wang, Nathan J. Szymanski, Shuoyan Xiong, Zhengyan Lun, Huiwen Ji, Chongmin Wang, Jianming Bai, Feng Wang, Bin Ouyang* , and Gerbrand Ceder* , Coherent-Precipitation-Stabilized Phase Formation in Over-Stoichiometric Rocksalt-Type Li Superionic Conductors. Adv Mater 2024, e2416342. [https://doi.org/10.1002/adma.202416342](https://doi.org/10.1002/adma.202416342)
 
 1. Fanjun Liu;  Jia He;  Hao Chen;  Wei Yang;  Runze Yu; Zhengyan Lun* , Design Principles for High‐Capacity, Long‐Life Cation‐Disordered Rocksalt Cathodes. Advanced Functional Materials 2024. [https://doi:10.1002/adfm.202419907](https://doi:10.1002/adfm.202419907)
 
