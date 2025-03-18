@@ -4,6 +4,9 @@ title: "论文列表"
 collection: publications
 
 ---
+2025
+---
+Yixiao Qiu;  Qinzhe Liu;  Jiangwei Tao;  Pu Yan;  Guangsu Tan;  Fanjun Liu;  Danyu Wang;  Na Yu;  Nian Zhang;  Yong Yang;  Weiwei Wang;  Yuzhu Wang;  Kecheng Cao;  Jingyang Wang* ;  Zhengyan Lun* ; Chao Xu* , Enabling the synthesis of O3-type sodium anion-redox cathodes via atmosphere modulation. Nature Communications 2025, 16 (1), 2343. [https://doi.org/10.1038/s41467-025-57665-1](https://doi.org/10.1038/s41467-025-57665-1)
 
 2024
 ---
