@@ -6,7 +6,7 @@ collection: publications
 ---
 2025
 ---
-1. Zhengyan Lun;  Alice J. Merryweather;  Amoghavarsha Mahadevegowda;  Shrinidhi S. Pandurangi;  Chao Xu;  Simon Fairclough;  Vikram S. Deshpande;  Norman A. Fleck;  Caterina Ducati;  Christoph Schnedermann;  Akshay Rao* ; Clare P. Grey* , Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathodes. Energy & Environmental Science 2025. [https://doi.org/10.1039/D5EE00267B](https://doi.org/10.1039/D5EE00267B)
+1. Zhengyan Lun;  Alice J. Merryweather;  Amoghavarsha Mahadevegowda;  Shrinidhi S. Pandurangi;  Chao Xu;  Simon Fairclough;  Vikram S. Deshpande;  Norman A. Fleck;  Caterina Ducati;  Christoph Schnedermann* ;  Akshay Rao* ; Clare P. Grey* , Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathodes. Energy & Environmental Science 2025. [https://doi.org/10.1039/D5EE00267B](https://doi.org/10.1039/D5EE00267B)
 
 1. Yixiao Qiu;  Qinzhe Liu;  Jiangwei Tao;  Pu Yan;  Guangsu Tan;  Fanjun Liu;  Danyu Wang;  Na Yu;  Nian Zhang;  Yong Yang;  Weiwei Wang;  Yuzhu Wang;  Kecheng Cao;  Jingyang Wang* ;  Zhengyan Lun* ; Chao Xu* , Enabling the synthesis of O3-type sodium anion-redox cathodes via atmosphere modulation. Nature Communications 2025, 16 (1), 2343. [https://doi.org/10.1038/s41467-025-57665-1](https://doi.org/10.1038/s41467-025-57665-1)
 
