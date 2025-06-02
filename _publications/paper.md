@@ -6,7 +6,10 @@ collection: publications
 ---
 2025
 ---
-1. Zhengyan Lun;  Alice J. Merryweather;  Amoghavarsha Mahadevegowda;  Shrinidhi S. Pandurangi;  Chao Xu;  Simon Fairclough;  Vikram S. Deshpande;  Norman A. Fleck;  Caterina Ducati;  Christoph Schnedermann* ;  Akshay Rao* ; Clare P. Grey* , Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathodes. Energy & Environmental Science 2025. [https://doi.org/10.1039/D5EE00267B](https://doi.org/10.1039/D5EE00267B)
+1. Xu, Shenyang; Gao, Zhihai; Chen, Hao; Chang, Liang; Zhang, Nian; Zhou, Dong; Li, Tianyi; Wang, Tony; Lin, Cong; Xue, Haoyu; Lai, Qinghao; Huang, Weiyuan; Yang, Luyi; Liu, Jiajie; Liu, Tongchao; He, Lunhua; Zhang, Mingjian; Lun, Zhengyan; Pan, Feng , Minimizing Inter-Lattice Strain to Stabilize Li-Rich Cathode by Order–Disorder Control. Advanced Materials 2025, n/a, 2418580. [https://doi.org/10.1002/adma.202418580](https://doi.org/10.1002/adma.202418580)<br>
+![adma202418580-gra-0001-m.jpg](/images/TOC/adma202418580-gra-0001-m.jpg)
+
+1. Zhengyan Lun;  Alice J. Merryweather;  Amoghavarsha Mahadevegowda;  Shrinidhi S. Pandurangi;  Chao Xu;  Simon Fairclough;  Vikram S. Deshpande;  Norman A. Fleck;  Caterina Ducati;  Christoph Schnedermann* ;  Akshay Rao* ; Clare P. Grey* , Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathodes. Energy & Environmental Science 2025, 18, 4097-4107,. [https://doi.org/10.1039/D5EE00267B](https://doi.org/10.1039/D5EE00267B)
 
 1. Yixiao Qiu;  Qinzhe Liu;  Jiangwei Tao;  Pu Yan;  Guangsu Tan;  Fanjun Liu;  Danyu Wang;  Na Yu;  Nian Zhang;  Yong Yang;  Weiwei Wang;  Yuzhu Wang;  Kecheng Cao;  Jingyang Wang* ;  Zhengyan Lun* ; Chao Xu* , Enabling the synthesis of O3-type sodium anion-redox cathodes via atmosphere modulation. Nature Communications 2025, 16 (1), 2343. [https://doi.org/10.1038/s41467-025-57665-1](https://doi.org/10.1038/s41467-025-57665-1)
 
@@ -15,7 +18,7 @@ collection: publications
 1. Hao Chen#, Yuchen Zhang#,  Yongjian Zhao#,  Junhong Liao,  Jia He,  Runze Yu,  Shendong Tan,  Runjie Zhang,  Tingzheng Hou* ,  Xianhu Sun* , Zhengyan Lun* , Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. Energy Storage Materials 2025, 75, 103990.  [https://doi.org/10.1016/j.ensm.2024.103990](https://doi.org/10.1016/j.ensm.2024.103990)<br>
 ![1-s2.0-S2405829724008171-ga1.jpg](/images/TOC/1-s2.0-S2405829724008171-ga1.jpg)
 
-1. Yu Chen, Xinye Zhao, Ke Chen, Krishna Prasad Koirala, Raynald Giovine, Xiaochen Yang, Shilong Wang, Nathan J. Szymanski, Shuoyan Xiong, Zhengyan Lun, Huiwen Ji, Chongmin Wang, Jianming Bai, Feng Wang, Bin Ouyang* , and Gerbrand Ceder* , Coherent-Precipitation-Stabilized Phase Formation in Over-Stoichiometric Rocksalt-Type Li Superionic Conductors. Adv Mater 2024, e2416342. [https://doi.org/10.1002/adma.202416342](https://doi.org/10.1002/adma.202416342)
+1. Yu Chen, Xinye Zhao, Ke Chen, Krishna Prasad Koirala, Raynald Giovine, Xiaochen Yang, Shilong Wang, Nathan J. Szymanski, Shuoyan Xiong, Zhengyan Lun, Huiwen Ji, Chongmin Wang, Jianming Bai, Feng Wang, Bin Ouyang* , and Gerbrand Ceder* , Coherent-Precipitation-Stabilized Phase Formation in Over-Stoichiometric Rocksalt-Type Li Superionic Conductors. Adv Mater 2024, 37, e2416342. [https://doi.org/10.1002/adma.202416342](https://doi.org/10.1002/adma.202416342)
 
 1. Fanjun Liu;  Jia He;  Hao Chen;  Wei Yang;  Runze Yu; Zhengyan Lun* , Design Principles for High‐Capacity, Long‐Life Cation‐Disordered Rocksalt Cathodes. Advanced Functional Materials 2024. [https://doi:10.1002/adfm.202419907](https://doi:10.1002/adfm.202419907)
 
