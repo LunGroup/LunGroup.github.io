@@ -6,7 +6,9 @@ collection: publications
 ---
 2025
 ---
-1. Xu, Shenyang; Gao, Zhihai; Chen, Hao; Chang, Liang; Zhang, Nian; Zhou, Dong; Li, Tianyi; Wang, Tony; Lin, Cong; Xue, Haoyu; Lai, Qinghao; Huang, Weiyuan; Yang, Luyi; Liu, Jiajie; Liu, Tongchao; He, Lunhua; Zhang, Mingjian* ; Lun, Zhengyan* ; Pan, Feng* , Minimizing Inter-Lattice Strain to Stabilize Li-Rich Cathode by Order–Disorder Control. Advanced Materials 2025, n/a, 2418580. [https://doi.org/10.1002/adma.202418580](https://doi.org/10.1002/adma.202418580)<br>
+1. Junhong Liao, Hao Chen, Yaoshu Xie, Zihui Li, Shendong Tan, Shuyu Zhou, Lu Jiang, Xiang Zhang, Ming Liu, Yan-Bing He, Feiyu Kang, Zhengyan Lun*, Shixi Zhao*,  Tingzheng Hou* , Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes.  Advanced Energy Materials 2025, 15, 2501857. [https://doi.org/10.1002/aenm.202501857](https://doi.org/10.1002/aenm.202501857)
+
+1. Xu, Shenyang; Gao, Zhihai; Chen, Hao; Chang, Liang; Zhang, Nian; Zhou, Dong; Li, Tianyi; Wang, Tony; Lin, Cong; Xue, Haoyu; Lai, Qinghao; Huang, Weiyuan; Yang, Luyi; Liu, Jiajie; Liu, Tongchao; He, Lunhua; Zhang, Mingjian* ; Lun, Zhengyan* ; Pan, Feng* , Minimizing Inter-Lattice Strain to Stabilize Li-Rich Cathode by Order–Disorder Control. Advanced Materials 2025, 37, 2418580. [https://doi.org/10.1002/adma.202418580](https://doi.org/10.1002/adma.202418580)<br>
 ![adma202418580-gra-0001-m.jpg](/images/TOC/adma202418580-gra-0001-m.jpg)
 
 1. Zhengyan Lun;  Alice J. Merryweather;  Amoghavarsha Mahadevegowda;  Shrinidhi S. Pandurangi;  Chao Xu;  Simon Fairclough;  Vikram S. Deshpande;  Norman A. Fleck;  Caterina Ducati;  Christoph Schnedermann* ;  Akshay Rao* ; Clare P. Grey* , Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathodes. Energy & Environmental Science 2025, 18, 4097-4107,. [https://doi.org/10.1039/D5EE00267B](https://doi.org/10.1039/D5EE00267B)
