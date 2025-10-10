@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![GR2024.jpg](/images/activity/GR2024.jpg)
+![Retreat2025.jpg](/images/activity/Retreat2025.jpg)
 
 课题组简介
 ---
