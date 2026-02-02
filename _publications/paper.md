@@ -6,6 +6,9 @@ collection: publications
 ---
 2025
 ---
+1.  Jia He; Runze Yu; Fanjun Liu; Yuchen Zhang; Chengyu Jin; Bo Zhang; Zijian Cai*; Zhengyan Lun*, Minimizing the Reaction Heterogeneity in Ultrafast Joule Heating Synthesis of Disordered Rocksalt Cathodes. Chemistry of Materials 2025, 37, 9810-9819.[https://doi.org/10.1021/acs.chemmater.5c02258](https://10.1021/acs.chemmater.5c02258)<br>
+![TOC-DRXJH.jpg](/images/TOC/TOC_DRXJH.jpg)
+
 1. Junhong Liao, Hao Chen, Yaoshu Xie, Zihui Li, Shendong Tan, Shuyu Zhou, Lu Jiang, Xiang Zhang, Ming Liu, Yan-Bing He, Feiyu Kang, Zhengyan Lun*, Shixi Zhao*,  Tingzheng Hou* , Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes.  Advanced Energy Materials 2025, 15, 2501857. [https://doi.org/10.1002/aenm.202501857](https://doi.org/10.1002/aenm.202501857)
 
 1. Xu, Shenyang; Gao, Zhihai; Chen, Hao; Chang, Liang; Zhang, Nian; Zhou, Dong; Li, Tianyi; Wang, Tony; Lin, Cong; Xue, Haoyu; Lai, Qinghao; Huang, Weiyuan; Yang, Luyi; Liu, Jiajie; Liu, Tongchao; He, Lunhua; Zhang, Mingjian* ; Lun, Zhengyan* ; Pan, Feng* , Minimizing Inter-Lattice Strain to Stabilize Li-Rich Cathode by Order–Disorder Control. Advanced Materials 2025, 37, 2418580. [https://doi.org/10.1002/adma.202418580](https://doi.org/10.1002/adma.202418580)<br>
