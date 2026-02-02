@@ -6,7 +6,7 @@ collection: publications
 ---
 2025
 ---
-1.  Jia He; Runze Yu; Fanjun Liu; Yuchen Zhang; Chengyu Jin; Bo Zhang; Zijian Cai*; Zhengyan Lun*, Minimizing the Reaction Heterogeneity in Ultrafast Joule Heating Synthesis of Disordered Rocksalt Cathodes. Chemistry of Materials 2025, 37, 9810-9819.[https://doi.org/10.1021/acs.chemmater.5c02258](https://10.1021/acs.chemmater.5c02258)<br>
+1.  Jia He; Runze Yu; Fanjun Liu; Yuchen Zhang; Chengyu Jin; Bo Zhang; Zijian Cai *; Zhengyan Lun *, Minimizing the Reaction Heterogeneity in Ultrafast Joule Heating Synthesis of Disordered Rocksalt Cathodes. Chemistry of Materials 2025, 37, 9810-9819.[https://doi.org/10.1021/acs.chemmater.5c02258](https://10.1021/acs.chemmater.5c02258)<br>
 ![TOC-DRXJH.jpg](/images/TOC/TOC_DRXJH.jpg)
 
 1. Junhong Liao, Hao Chen, Yaoshu Xie, Zihui Li, Shendong Tan, Shuyu Zhou, Lu Jiang, Xiang Zhang, Ming Liu, Yan-Bing He, Feiyu Kang, Zhengyan Lun*, Shixi Zhao*,  Tingzheng Hou* , Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes.  Advanced Energy Materials 2025, 15, 2501857. [https://doi.org/10.1002/aenm.202501857](https://doi.org/10.1002/aenm.202501857)
