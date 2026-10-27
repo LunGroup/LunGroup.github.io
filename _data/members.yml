@@ -16,6 +16,7 @@
 
 - group: ap
   name: 张思东
+  photo: /images/People/zsd.jpg
 
 - group: ap
   name: 陈浩
@@ -34,7 +35,12 @@
   photo: /images/People/lr.jpg
 
 - group: postdoc
+  name: 张红
+  photo: /images/People/zh.jpg
+
+- group: postdoc
   name: 关家柱
+  photo: /images/People/gjz.jpg
 
 - group: phd
   name: 林佩仪
@@ -99,6 +105,7 @@
 - group: master
   name: 李豪
   role: 2026 级硕士生
+  photo: /images/People/lh.jpg
 
 - group: former
   name: 杨威

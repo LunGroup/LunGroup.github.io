@@ -24,19 +24,15 @@ redirect_from:
 
 <div class="lab-stats">
   <div class="lab-stat-total">
-    <span class="lab-stat-num">38</span>
+    <span class="lab-stat-num">{{ site.publications | size }}</span>
     <span class="lab-stat-label">累计发表论文</span>
   </div>
   <div class="lab-stat-years">
-    <span class="lab-year-chip"><b>2025</b>5 篇</span>
-    <span class="lab-year-chip"><b>2024</b>6 篇</span>
-    <span class="lab-year-chip"><b>2023</b>7 篇</span>
-    <span class="lab-year-chip"><b>2022</b>3 篇</span>
-    <span class="lab-year-chip"><b>2021</b>2 篇</span>
-    <span class="lab-year-chip"><b>2020</b>6 篇</span>
-    <span class="lab-year-chip"><b>2019</b>2 篇</span>
-    <span class="lab-year-chip"><b>2018</b>2 篇</span>
-    <span class="lab-year-chip"><b>2015–2017</b>5 篇</span>
+    {% assign pubs = site.publications | sort: "date" | reverse %}
+    {% assign groups = pubs | group_by: "section" %}
+    {% for group in groups %}
+    <span class="lab-year-chip"><b>{{ group.name }}</b>{{ group.items | size }} 篇</span>
+    {% endfor %}
   </div>
 </div>
 
