@@ -1,0 +1,516 @@
+/* ==========================================================================
+   课题组定制样式
+   - 品牌色通过 _variables.scss 的 $primary-color / $info-color 设置（深蓝 #185FA5）
+   - 本文件负责：左侧作者栏、中文排版、首页组件、论文列表、成员卡片
+   ========================================================================== */
+
+/* ---------- 左侧作者栏（经典样式：照片在上，姓名/头衔居中在下，全宽度生效） ---------- */
+.sidebar .author__avatar {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.sidebar .author__avatar img {
+  width: 140px;
+  height: 140px;
+  max-width: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid $border-color;
+  padding: 0;
+  margin: 0 auto;
+  display: block;
+}
+
+.sidebar .author__content {
+  display: block;
+  width: 100%;
+  padding: 0;
+  text-align: center;
+}
+
+.sidebar .author__name {
+  text-align: center;
+  font-size: 1.15em;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.sidebar .author__bio {
+  text-align: center;
+  font-size: 0.85em;
+  color: #5f5e5a;
+  line-height: 1.7;
+}
+
+.sidebar .author__urls-wrapper {
+  display: block;
+  text-align: left;
+  margin-top: 14px;
+}
+
+.sidebar .author__urls-wrapper button {
+  display: none;
+}
+
+.sidebar .author__urls {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.sidebar .author__urls:before,
+.sidebar .author__urls:after {
+  display: none;
+}
+
+/* ---------- 中文排版优化 ---------- */
+body {
+  letter-spacing: 0.01em;
+}
+
+.page__content,
+.archive {
+  line-height: 1.9;
+}
+
+.page__content p,
+.page__content li,
+.page__content td,
+.archive p,
+.archive li {
+  line-height: 1.9;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.archive h1,
+.archive h2,
+.archive h3,
+.archive h4 {
+  font-weight: 500;
+}
+
+.page__content img,
+.archive img {
+  border-radius: 8px;
+}
+
+/* ---------- 首页 hero 区 ---------- */
+.lab-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.lab-hero-text {
+  flex: 1.15;
+  min-width: 280px;
+}
+
+.lab-hero-text p {
+  font-size: 0.92em;
+  color: #5f5e5a;
+  line-height: 1.95;
+  margin: 0 0 14px;
+}
+
+.lab-hero-img {
+  flex: 1;
+  min-width: 280px;
+}
+
+.lab-hero-img img {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+.lab-eyebrow {
+  font-size: 0.8em;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: $primary-color;
+  margin: 0 0 10px;
+}
+
+.lab-hero-title {
+  font-size: 1.55em;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0 0 16px;
+  color: $text-color;
+}
+
+.lab-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}
+
+.lab-actions .btn {
+  border-radius: 6px;
+  font-size: 0.85em;
+  padding: 0.55em 1.3em;
+}
+
+/* ---------- 论文统计（总数 + 每年篇数） ---------- */
+.lab-stats {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: stretch;
+  margin: 0 0 10px;
+}
+
+.lab-stat-total {
+  background: #f4f3ef;
+  border-radius: 10px;
+  padding: 14px 22px;
+  min-width: 130px;
+}
+
+.lab-stat-num {
+  display: block;
+  font-size: 1.6em;
+  font-weight: 500;
+  color: $primary-color;
+  line-height: 1.2;
+}
+
+.lab-stat-label {
+  display: block;
+  font-size: 0.8em;
+  color: #5f5e5a;
+  margin-top: 4px;
+}
+
+.lab-stat-years {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.lab-year-chip {
+  background: #f4f3ef;
+  border-radius: 6px;
+  padding: 7px 12px;
+  font-size: 0.8em;
+  color: #5f5e5a;
+  white-space: nowrap;
+}
+
+.lab-year-chip b {
+  color: $primary-color;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+/* ---------- 分区标题 ---------- */
+.lab-section-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  font-size: 1.15em;
+  font-weight: 500;
+  margin: 38px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid $border-color;
+}
+
+.lab-section-title .lab-more {
+  font-size: 0.72em;
+  font-weight: 400;
+}
+
+/* ---------- 研究方向（大文字列表，无图标） ---------- */
+.lab-direction {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 15px 0;
+  border-bottom: 1px solid #f0efe9;
+}
+
+.lab-direction:last-child {
+  border-bottom: none;
+}
+
+.lab-direction-num {
+  font-size: 1.05em;
+  font-weight: 500;
+  color: $primary-color;
+  min-width: 30px;
+}
+
+.lab-direction-title {
+  font-size: 1.08em;
+  font-weight: 500;
+  margin: 0 0 5px;
+  color: $text-color;
+  line-height: 1.5;
+}
+
+.lab-direction-desc {
+  font-size: 0.85em;
+  color: #5f5e5a;
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* ---------- 依托单位 ---------- */
+.lab-org p {
+  font-size: 0.88em;
+  color: #5f5e5a;
+  line-height: 1.95;
+  margin: 0 0 12px;
+}
+
+.lab-org b {
+  color: $text-color;
+  font-weight: 500;
+}
+
+/* ---------- 最新动态 ---------- */
+.lab-news {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lab-news li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 9px 0;
+  border-bottom: 1px solid #f0efe9;
+  font-size: 0.9em;
+}
+
+.lab-news li:last-child {
+  border-bottom: none;
+}
+
+.lab-news-date {
+  font-size: 0.8em;
+  color: #5f5e5a;
+  background: #f4f3ef;
+  border-radius: 6px;
+  padding: 2px 9px;
+  white-space: nowrap;
+}
+
+.lab-news a {
+  color: $text-color;
+}
+
+.lab-news a:hover {
+  color: $link-color;
+}
+
+/* ---------- 论文列表（年份单独成行，TOC 在下侧，统一蓝色期刊标签） ---------- */
+.pub-intro {
+  color: #5f5e5a;
+  font-size: 0.92em;
+  margin-bottom: 6px;
+}
+
+.pub-year-head {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 500;
+  margin: 48px 0 14px;
+  color: $primary-color;
+}
+
+.pub-item {
+  padding: 18px 0;
+  border-bottom: 1px solid #f0efe9;
+}
+
+.pub-item:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-size: 0.98em;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0 0 6px;
+}
+
+.pub-title a {
+  color: $text-color;
+}
+
+.pub-title a:hover {
+  color: $link-color;
+}
+
+.pub-authors {
+  font-size: 0.82em;
+  color: #5f5e5a;
+  line-height: 1.75;
+  margin: 0 0 8px;
+}
+
+.pub-authors strong {
+  color: $primary-color;
+  font-weight: 500;
+}
+
+.pub-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 0;
+  font-size: 0.78em;
+}
+
+.pub-journal {
+  background: $primary-color;
+  color: #fff;
+  border-radius: 5px;
+  padding: 2px 10px;
+  font-weight: 500;
+}
+
+.pub-year-tag {
+  color: #888780;
+}
+
+.pub-doi {
+  color: $link-color;
+}
+
+.pub-doi:hover {
+  text-decoration: underline;
+}
+
+.pub-toc {
+  margin-top: 12px;
+}
+
+.pub-toc img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  display: block;
+}
+
+/* ---------- 成员卡片（一排放四个，姓名居中在照片下方） ---------- */
+.member-group-title {
+  font-size: 1.05em;
+  font-weight: 500;
+  margin: 30px 0 14px;
+  color: $primary-color;
+}
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.member-card {
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.member-card-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #f4f3ef;
+}
+
+.member-card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.member-card-initial {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 2.4em;
+  font-weight: 500;
+  color: #b4b2a9;
+  background: #f4f3ef;
+}
+
+.member-card-body {
+  padding: 10px 8px 12px;
+  text-align: center;
+}
+
+.member-card-name {
+  font-size: 0.95em;
+  font-weight: 500;
+  margin: 0 0 3px;
+}
+
+.member-card-role {
+  font-size: 0.72em;
+  color: #888780;
+  margin: 0 0 4px;
+}
+
+.member-card-desc {
+  font-size: 0.72em;
+  color: #5f5e5a;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.member-card-email {
+  font-size: 0.72em;
+  margin: 4px 0 0;
+}
+
+.member-card-email a {
+  color: $link-color;
+}
+
+/* ---------- 移动端适配 ---------- */
+@media screen and (max-width: 600px) {
+  .lab-hero {
+    gap: 18px;
+  }
+
+  .lab-hero-img img {
+    height: 200px;
+  }
+
+  .member-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .pub-toc img {
+    width: 160px;
+  }
+}

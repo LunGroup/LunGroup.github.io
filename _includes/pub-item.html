@@ -1,0 +1,15 @@
+{% assign pub = include.pub %}
+<div class="pub-item pub-tier-{{ pub.tier }}">
+  <p class="pub-title"><a href="{{ pub.paperurl }}" target="_blank" rel="noopener">{{ pub.title }}</a></p>
+  <p class="pub-authors">{{ pub.authors | replace: "Zhengyan Lun", "<strong>Zhengyan Lun</strong>" | replace: "Lun, Zhengyan", "<strong>Lun, Zhengyan</strong>" }}</p>
+  <p class="pub-meta">
+    <span class="pub-journal">{{ pub.venue }}</span>
+    <span class="pub-year-tag">{{ pub.year }}</span>
+    {% if pub.paperurl %}<a class="pub-doi" href="{{ pub.paperurl }}" target="_blank" rel="noopener">DOI ↗</a>{% endif %}
+  </p>
+  {% if pub.image %}
+  <div class="pub-toc">
+    <img src="{{ pub.image | replace: ' ', '%20' }}" alt="论文首页图" loading="lazy">
+  </div>
+  {% endif %}
+</div>

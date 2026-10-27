@@ -5,10 +5,37 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign groups = "pi|ap|postdoc|phd|master|undergrad|former" | split: "|" %}
+{% assign group_names = "课题组负责人|副研究员|博士后研究员|博士研究生|硕士研究生|本科生|已毕业及离组成员" | split: "|" %}
+
+{% for g in groups %}
+  {% assign members = site.data.members | where: "group", g %}
+  {% if members.size > 0 %}
+    <h2 class="member-group-title">{{ group_names[forloop.index0] }}（{{ members.size }} 人）</h2>
+    <div class="member-grid">
+      {% for m in members %}
+        <div class="member-card">
+          <div class="member-card-photo">
+            {% if m.photo %}
+            <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}" loading="lazy">
+            {% else %}
+            <span class="member-card-initial">{{ m.name | slice: 0 }}</span>
+            {% endif %}
+          </div>
+          <div class="member-card-body">
+            <p class="member-card-name">{{ m.name }}</p>
+            {% if m.role %}<p class="member-card-role">{{ m.role }}</p>{% endif %}
+            {% if m.note %}<p class="member-card-desc">{{ m.note }}</p>{% endif %}
+            {% if m.links %}
+              <p class="member-card-desc">{% for l in m.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
 {% endfor %}
+
+<p style="margin-top: 24px; font-size: 0.85em; color: #5f5e5a;">欢迎新成员加入课题组，详见 <a href="/cv/">加入我们</a>。</p>

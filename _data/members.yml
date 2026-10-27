@@ -1,0 +1,185 @@
+# 成员花名册 —— 维护方式：新增成员在对应分组下加一段即可
+# group 可选值: pi / ap / postdoc / phd / master / undergrad / former
+# 已毕业/离组：group 改为 former，note 写去向
+# photo 可省略，省略时页面显示姓名首字占位图
+
+- group: pi
+  name: 伦正言
+  role: 副教授 · 博士生导师
+  photo: /images/20221007_1665150112291.jpg
+  note: 课题组组长
+  links:
+    - label: Google Scholar
+      url: https://scholar.google.com/citations?user=9OqMRZYAAAAJ&hl=en
+    - label: Email
+      url: mailto:zylun@ucas.ac.cn
+
+- group: ap
+  name: 张思东
+
+- group: ap
+  name: 陈浩
+  photo: /images/People/ch.jpg
+
+- group: postdoc
+  name: 郝文峰
+  photo: /images/People/hwf.jpg
+
+- group: postdoc
+  name: 焦健悦
+  photo: /images/People/jjy.jpg
+
+- group: postdoc
+  name: 李睿
+  photo: /images/People/lr.jpg
+
+- group: postdoc
+  name: 关家柱
+
+- group: phd
+  name: 林佩仪
+  role: 2024 级博士生
+  photo: /images/People/lpy.jpg
+
+- group: phd
+  name: 张宇晨
+  role: 2024 级博士生
+  photo: /images/People/zyc.jpg
+
+- group: phd
+  name: 周聪
+  role: 2024 级直博生
+  photo: /images/People/zc.jpg
+
+- group: phd
+  name: 余润泽
+  role: 2025 级博士生
+  photo: /images/People/yrz.jpg
+
+- group: phd
+  name: 黄翔
+  role: 2025 级博士生
+  photo: /images/People/hx.jpg
+
+- group: phd
+  name: 瞿一旸
+  role: 2026 级博士生
+  photo: /images/People/qyy.jpg
+
+- group: master
+  name: 丁德山
+  role: 2024 级硕士生
+  photo: /images/People/dds.jpg
+
+- group: master
+  name: 陈玲辉
+  role: 2024 级硕士生
+  photo: /images/People/clh.jpg
+
+- group: master
+  name: 周业杰
+  role: 2025 级硕士生
+  photo: /images/People/zyj.jpg
+
+- group: master
+  name: 李增耀
+  role: 2025 级硕士生
+  photo: /images/People/lzy.jpg
+
+- group: master
+  name: 陈启睿
+  role: 2026 级硕士生
+  photo: /images/People/cqr.jpg
+
+- group: master
+  name: 余仁杰
+  role: 2026 级硕士生
+  photo: /images/People/yrj.jpg
+
+- group: master
+  name: 李豪
+  role: 2026 级硕士生
+
+- group: former
+  name: 杨威
+  role: 博士后
+  note: 已赴工业界
+  photo: /images/People/yw.jpg
+
+- group: former
+  name: 李艳萍
+  role: 2022 级硕士生
+  note: 2025 年毕业
+  photo: /images/People/lyp.jpg
+
+- group: former
+  name: 向方杰
+  role: 2020 级本科生
+  note: 2025 年毕业，赴耶鲁大学攻读博士
+  photo: /images/People/xfj.jpg
+
+- group: former
+  name: 尤梓羽
+  role: 2021 级本科生
+  note: 2025 年毕业，化学所直博
+  photo: /images/People/yzy.jpg
+
+- group: former
+  name: 胡之源
+  role: 2021 级本科生
+  note: 2025 年毕业
+  photo: /images/People/hzy.jpg
+
+- group: former
+  name: 张立国
+  role: 博士后
+  note: 已离组
+  photo: /images/People/zlg.jpg
+
+- group: former
+  name: 齐松
+  role: 博士后
+  note: 已离组
+  photo: /images/People/qs.jpg
+
+- group: former
+  name: 连向阳
+  role: 2021 级博士生
+  note: 已毕业
+  photo: /images/People/lxy.jpg
+
+- group: former
+  name: 何佳
+  role: 2023 级博士生
+  note: 已毕业
+  photo: /images/People/hj.jpg
+
+- group: former
+  name: 刘凡君
+  role: 2023 级博士生
+  note: 已毕业
+  photo: /images/People/lfj.jpg
+
+- group: former
+  name: 郭成
+  role: 2023 级硕士生
+  note: 已毕业
+  photo: /images/People/gc.jpg
+
+- group: former
+  name: 许雯
+  role: 2023 级硕士生
+  note: 已毕业
+  photo: /images/People/xw.jpg
+
+- group: former
+  name: 张润杰
+  role: 科研助理
+  note: 2023–2024，已转博
+  photo: /images/People/zrj.jpg
+
+- group: former
+  name: 颜正
+  role: 科研助理
+  note: 2023–2024
+  photo: /images/People/yz.jpg
