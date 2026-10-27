@@ -106,16 +106,7 @@ body {
 
 /* ---------- 首页 hero 区 ---------- */
 .lab-hero {
-  display: flex;
-  align-items: flex-start;
-  gap: 30px;
-  flex-wrap: wrap;
   margin-bottom: 32px;
-}
-
-.lab-hero-text {
-  flex: 1.15;
-  min-width: 280px;
 }
 
 .lab-hero-text p {
@@ -123,35 +114,27 @@ body {
   color: #5f5e5a;
   line-height: 1.95;
   margin: 0 0 14px;
+  text-indent: 2em;
 }
 
-.lab-hero-img {
-  flex: 1;
-  min-width: 280px;
-}
-
-.lab-hero-img img {
+.lab-hero-banner {
   width: 100%;
-  height: 340px;
-  object-fit: cover;
+  margin: 0 0 22px;
+}
+
+.lab-hero-banner img {
+  width: 100%;
+  height: auto;
   border-radius: 12px;
   display: block;
 }
 
 .lab-eyebrow {
-  font-size: 0.8em;
-  font-weight: 500;
-  letter-spacing: 0.12em;
+  font-size: 1.5em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
   color: $primary-color;
-  margin: 0 0 10px;
-}
-
-.lab-hero-title {
-  font-size: 1.55em;
-  font-weight: 500;
-  line-height: 1.5;
-  margin: 0 0 16px;
-  color: $text-color;
+  margin: 0 0 18px;
 }
 
 .lab-actions {
@@ -173,7 +156,7 @@ body {
   gap: 16px;
   flex-wrap: wrap;
   align-items: stretch;
-  margin: 0 0 10px;
+  margin: 30px 0 10px;
 }
 
 .lab-stat-total {
@@ -279,6 +262,7 @@ body {
   color: #5f5e5a;
   line-height: 1.95;
   margin: 0 0 12px;
+  text-indent: 2em;
 }
 
 .lab-org b {
@@ -404,11 +388,13 @@ body {
 }
 
 .pub-toc {
-  margin-top: 12px;
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
 }
 
 .pub-toc img {
-  width: 200px;
+  width: 360px;
   max-width: 100%;
   height: auto;
   border: 1px solid $border-color;
@@ -498,12 +484,8 @@ body {
 
 /* ---------- 移动端适配 ---------- */
 @media screen and (max-width: 600px) {
-  .lab-hero {
-    gap: 18px;
-  }
-
-  .lab-hero-img img {
-    height: 200px;
+  .lab-eyebrow {
+    font-size: 1.15em;
   }
 
   .member-grid {
@@ -511,6 +493,7 @@ body {
   }
 
   .pub-toc img {
-    width: 160px;
+    width: 100%;
+    max-width: 300px;
   }
 }
